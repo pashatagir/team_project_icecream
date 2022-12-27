@@ -164,18 +164,18 @@
   &__ellipse--orange::before {
     background-image: url(../images/orangeicecream-mob.png);
     @include mq(retina) {
-      background-image: url(../images/products1-mob-2x.png);
+      background-image: url(../images/products2-mob-2x.png);
     }
     @include mq(tablet) {
-      background-image: url(../images/products1-tab.png);
+      background-image: url(../images/products2-tab.png);
       @include mq(retina) {
-        background-image: url(../images/products1-tab-2x.png);
+        background-image: url(../images/products2-tab-2x.png);
       }
     }
     @include mq(desktop) {
-      background-image: url(../images/products1.png);
+      background-image: url(../images/products2.png);
       @include mq(retina) {
-        background-image: url(../images/products1-2x.png);
+        background-image: url(../images/products2-2x.png);
       }
     }
   }
@@ -183,18 +183,18 @@
   &__ellipse--red::before {
     background-image: url(../images/pinkicecream-mob.png);
     @include mq(retina) {
-      background-image: url(../images/products1-mob-2x.png);
+      background-image: url(../images/products3-mob-2x.png);
     }
     @include mq(tablet) {
-      background-image: url(../images/products1-tab.png);
+      background-image: url(../images/products3-tab.png);
       @include mq(retina) {
-        background-image: url(../images/products1-tab-2x.png);
+        background-image: url(../images/products3-tab-2x.png);
       }
     }
     @include mq(desktop) {
-      background-image: url(../images/products1.png);
+      background-image: url(../images/products3.png);
       @include mq(retina) {
-        background-image: url(../images/products1-2x.png);
+        background-image: url(../images/products3-2x.png);
       }
     }
   }
